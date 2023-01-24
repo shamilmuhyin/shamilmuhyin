@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on Angular-projects
 - 🤔 I’m looking for help with SpringBoot
 - 💬 Ask me about Java, JavaScript
-- 📫 How to reach me: https://www.linkedin.com/in/shamil-muhyin-k-ba6202b8/
+- 📫 How to reach me: https://www.linkedin.com/in/shamilmuhyin/
 - 😄 Pronouns: Muhyin
-
 
